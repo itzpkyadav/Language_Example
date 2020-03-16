@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Example</string>
+    <string name="text_translation">Kannada</string>
+
+    <string name="text_translation_one">This example </string>
+    <string name="text_translation_two"> Add the following </string>
+    <string name="text_translation_three">Add the following </string>
+</resources>

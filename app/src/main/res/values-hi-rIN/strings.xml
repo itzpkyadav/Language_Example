@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Example</string>
+    <string name="text_translation">Hindi</string>
+    <string name="text_translation_one">इन्फेक्शन के डर से रात-रातभर नींद नहीं आती थी: खुशबू</string>
+    <string name="text_translation_two">प्रशासन ने निगरानी और कंट्रोल सिस्टम मजबूत किया</string>
+    <string name="text_translation_three">कश्मीर में अब तक 1433 लोगों को क्वारैंटाइन किया गया</string>
+</resources>

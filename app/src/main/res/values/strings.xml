@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Language Example</string>
+
+    <string name="text_translation">English</string>
+    <string name="text_translation_one">This example demonstrates how do I in change the app language programmatically android.</string>
+    <string name="text_translation_two"> Add the following code to res/layout/activity_main.xml.</string>
+    <string name="text_translation_three">Add the following code to src/MainActivity.java</string>
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Kannada</item>
+    </string-array>
+</resources>
